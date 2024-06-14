@@ -1,1 +1,4 @@
 alpine
+registry
+mysql
+gingko/centos7
