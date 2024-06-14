@@ -22,7 +22,7 @@ Calibre-Web
 TaleBook
 Audiobookshelf
 navidrome:latest
-msterzhang/onelist:latest
-advplyr/audiobookshelf:2.10.1
-moelin/1panel:latest
-haroldli/xiaoya-tvbox:latest
+onelist:latest
+audiobookshelf:2.10.1
+1panel:latest
+xiaoya-tvbox:latest
