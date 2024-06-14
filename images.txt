@@ -26,3 +26,6 @@ onelist:latest
 audiobookshelf:2.10.1
 1panel:latest
 xiaoya-tvbox:latest
+Moments/latest
+technosoft2000/calibre-web
+linuxserver/heimdall
