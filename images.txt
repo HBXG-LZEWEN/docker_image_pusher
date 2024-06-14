@@ -6,26 +6,3 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 alist/latest
 Portainer/latest
-CasaOS/latest
-qinglong/latest
-qiandao/latest
-qBittorrent/latest
-Transmission/latest
-EMBY/latest
-Jellyfin/latest
-bililive-go/latest
-SpeedTest/latest
-Syncthing/latest
-Heimdall/latest
-BookBrowser/latest
-Calibre-Web/latest
-TaleBook/latest
-Audiobookshelf/latest
-navidrome:latest
-onelist:latest
-audiobookshelf:2.10.1
-1panel:latest
-xiaoya-tvbox:latest
-Moments/latest
-technosoft2000/calibre-web
-linuxserver/heimdall
