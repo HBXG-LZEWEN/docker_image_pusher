@@ -5,3 +5,24 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 alist/latest
+Portainer
+CasaOS
+qinglong
+qiandao
+qBittorrent
+Transmission
+EMBY
+Jellyfin
+bililive-go
+SpeedTest
+Syncthing
+Heimdall
+BookBrowser
+Calibre-Web
+TaleBook
+Audiobookshelf
+navidrome:latest
+msterzhang/onelist:latest
+advplyr/audiobookshelf:2.10.1
+moelin/1panel:latest
+haroldli/xiaoya-tvbox:latest
