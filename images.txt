@@ -26,7 +26,6 @@ xhofe/alist
 xiaoyaliu/glue
 xiaoyaliu/tfm
 deluan/navidrome
-whatwewant/navidrome
 advplyr/audiobookshelf
 ceramicwhite/audiobookshelf
 linuxserver/heimdall
