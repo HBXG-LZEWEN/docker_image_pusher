@@ -71,5 +71,5 @@
 #wordpress
 adminer
 phpmyadmin
-Neo4j
+neo4j
 centos
