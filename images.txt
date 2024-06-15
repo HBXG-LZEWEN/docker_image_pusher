@@ -4,3 +4,4 @@ mysql
 gingko/centos7
 luodaoyi/kms-server
 tangniyuqi/baota
+oneyx/onelist
