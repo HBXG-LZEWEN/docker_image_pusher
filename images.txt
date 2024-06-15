@@ -22,7 +22,6 @@ allanpk716/chinesesubfinder
 nevinee/chinesesubfinder
 wwfnle/chinesesubfinder
 xiaoyaliu/alist
-haroldli/alist_tvbox
 xhofe/alist
 xiaoyaliu/glue
 xiaoyaliu/tfm
