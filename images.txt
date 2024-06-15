@@ -31,7 +31,6 @@ ceramicwhite/audiobookshelf
 linuxserver/heimdall
 mitre/heimdall2
 mitre/heimdall
-vulhub/aria2
 p3terx/aria2-pro
 xujinkai/aria2-with-webui
 wahyd4/aria2-u
