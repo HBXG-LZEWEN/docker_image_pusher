@@ -10,7 +10,6 @@ jellyfin/jellyfin
 emby/embyserver
 nastool/nas-tools
 nastools/nas-tools
-yohe/nastool
 19970688/nastools-bt
 hslr/sun-panel
 wghaos/sun-panel
