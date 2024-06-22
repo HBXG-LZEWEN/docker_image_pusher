@@ -151,9 +151,8 @@
 #hylang
 #iojs
 #irssi
-jaymoulin/transmission
-jellyfin/jellyfin
-jenkins
+#jaymoulin/transmission
+#jellyfin/jellyfin
 jetty
 joomla
 jruby
@@ -163,7 +162,6 @@ kaazing-gateway
 kapacitor
 kibana 
 kimi360/homebox
-kl3x/xunlei
 kl3x/xunlei
 known
 kong 
