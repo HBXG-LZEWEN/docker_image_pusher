@@ -254,7 +254,6 @@
 #tomee
 #traefik 
 #ubuntu
-vulhub/aria2
 wahyd4/aria2-ui
 websphere-liberty
 wghaos/clouddrive2
