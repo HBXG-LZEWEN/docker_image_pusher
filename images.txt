@@ -79,7 +79,6 @@
 1panel/openresty
 adminer
 advplyr/audiobookshelf
-aerospike
 allanpk716/chinesesubfinder
 alpine
 alt
