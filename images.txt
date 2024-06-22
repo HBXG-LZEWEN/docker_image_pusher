@@ -270,7 +270,6 @@
 #xujinkai/aria2-with-webui
 #xwiki
 #yourls
-aria2
 znc
 Zookeeper
 
