@@ -113,9 +113,13 @@
 #difegue/lanraragi
 #django
 #docker
-eclipse-mosquitto
-eggdrop
-elasticsearch
+#eclipse-mosquitto
+#eggdrop
+ghcr.io/monlor/xiaoya-jellyfin:latest
+ghcr.io/monlor/xiaoya-embyserver:latest
+ghcr.io/monlor/xiaoya-metadata:latest
+ghcr.io/monlor/xiaoya-alist:latest
+ghcr.io/monlor/xiaoya-metadata
 elestio/nextcloud
 elixir
 emby/embyserver
