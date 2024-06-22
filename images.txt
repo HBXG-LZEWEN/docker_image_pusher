@@ -201,7 +201,6 @@
 #oneyx/onelist
 #openjdk
 #open-liberty
-oraclelinux
 orientdb
 owncloud
 p3terx/aria2-pro
