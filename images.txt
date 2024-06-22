@@ -137,7 +137,6 @@
 #gradle
 #groovy
 #haproxy
-alist_tvbox
 haskell
 haxe
 hello-seattle
