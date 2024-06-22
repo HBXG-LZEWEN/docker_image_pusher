@@ -196,12 +196,11 @@
 #nextcloud
 #nginx
 #node
-nuxeo
-odoo
-oneyx/onelist
-openjdk
-open-liberty
-opensuse
+#nuxeo
+#odoo
+#oneyx/onelist
+#openjdk
+#open-liberty
 oraclelinux
 orientdb
 owncloud
