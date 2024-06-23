@@ -466,7 +466,7 @@ xiaoyaliu/tfm
 xujinkai/aria2-with-webui
 xwiki
 znc
-Zookeeper
+zookeeper
 
 
 
